@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Machine Learning and API<br>🎲 Fun fact: I am also invested in automotive industry</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Machine Learning and API<br>
 
 ###
 
